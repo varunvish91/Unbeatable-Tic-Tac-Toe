@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TicTacToeAndroid</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Tic Tac Toe</string>
     <string name="action_settings">Settings</string>
-
+    <string name="game_over">Game Over</string>
+    <string name="winner">You Win!</string>
+    <string name="error">Error!</string>
+    <string name="invalid_move">That is an invalid move!</string>
+    <string name="computer_wins">Computer Wins!</string>
+    <string name="new_game">New Game</string>
+    <string name="accept">Ok</string>
+    <string name="cross">X</string>
+    <string name="circle">O</string>
+    <string name="welcome">Welcome to a game of unbeatable Tic Tac Toe</string>
+    <string name="welcome_message">Press any square to begin! (You are X)</string>
 </resources>
